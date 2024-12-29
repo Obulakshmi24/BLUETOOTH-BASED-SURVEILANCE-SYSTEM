@@ -54,7 +54,8 @@ This project implements a surveillance system using an Arduino microcontroller, 
 - `main.c`: Core surveillance system logic.
 - `UART.h` and `UART.c`: UART communication implementation.
 - `bluetooth.h` and `bluetooth.c`: Bluetooth module configuration.
-- `schematics/`: Circuit diagrams and wiring details.
+- `schematics/`: Circuit diagrams and wiring details.![WhatsApp Image 2024-12-27 at 11 42 53_5436d9df](https://github.com/user-attachments/assets/59381b6a-33a1-4be4-8233-64772e92a3d1)
+
 
 ## Example Commands
 | Command | Description            |
