@@ -2,6 +2,9 @@
 
 This project implements a surveillance system using an Arduino microcontroller, the HC-05 Bluetooth module, an IR sensor, and a buzzer. The system monitors for unauthorized access and sends alerts via Bluetooth while triggering an audible alarm.
 
+![WhatsApp Image 2024-12-27 at 11 42 53_5436d9df](https://github.com/user-attachments/assets/e04598c8-5fe3-4e27-95c8-ac453064c834)
+
+
 ## Features
 - **Motion Detection**: Utilizes an IR sensor to detect movement or unauthorized access.
 - **Bluetooth Communication**: Uses the HC-05 module to notify the user via a paired Bluetooth device.
@@ -54,7 +57,7 @@ This project implements a surveillance system using an Arduino microcontroller, 
 - `main.c`: Core surveillance system logic.
 - `UART.h` and `UART.c`: UART communication implementation.
 - `bluetooth.h` and `bluetooth.c`: Bluetooth module configuration.
-- `schematics/`: Circuit diagrams and wiring details.![WhatsApp Image 2024-12-27 at 11 42 53_5436d9df](https://github.com/user-attachments/assets/59381b6a-33a1-4be4-8233-64772e92a3d1)
+- `schematics/`: Circuit diagrams and wiring details.
 
 
 ## Example Commands
